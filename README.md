@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on **Library Management System**<br><br>🌱 I’m currently learning **Golang, Microservices, and More!**<br><br>💬 Ask me about **Python and Django**<br><br>📫 How to reach me **riyadhisholikhin@gmail.com**
+<h1>Hi 👋, I'm Riyadh</h1>
+<h3>A passionate backend developer from Indonesia</h3>
+
+- 🔭 I’m currently working on **Library Management System**
+
+- 🌱 I’m currently learning **Golang, Microservices, and More!**
+
+- 💬 Ask me about **Python and Django**
+
+- 📫 How to reach me **riyadhisholikhin@gmail.com**
 
 
 # 💻 Tech Stack:
